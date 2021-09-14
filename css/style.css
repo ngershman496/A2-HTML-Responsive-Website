@@ -22,7 +22,7 @@ body{
   the margin 'auto' will keep the conainer in the middle of the screen
   using 'overflow hidden' will prevent a scroll bar from popping up
   if the content goes beyond the screen boundary
-  
+
   */
   
 .container{
@@ -78,7 +78,7 @@ header{
   }
 
   header .highlight, header .current a{
-    color:#e8491d;
+    color:#440083;
     font-weight:bold;
   }
 
